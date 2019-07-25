@@ -1,0 +1,16 @@
+﻿  a2ms4.c
+  contactHelpers.c
+  contacts.c
+d:\school\_semester1\ipc assignment 2\ipc-project-master\a2\ms4\contacts.c(119): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\school\_semester1\ipc assignment 2\ipc-project-master\a2\ms4\contacts.c(122): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+d:\school\_semester1\ipc assignment 2\ipc-project-master\a2\ms4\contacts.c(154): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
+  Generating Code...
+contacts.obj : error LNK2005: _main already defined in a2ms4.obj
+contactHelpers.obj : error LNK2019: unresolved external symbol _getName referenced in function _updateContact
+contactHelpers.obj : error LNK2019: unresolved external symbol _getAddress referenced in function _updateContact
+contactHelpers.obj : error LNK2019: unresolved external symbol _getNumbers referenced in function _updateContact
+contactHelpers.obj : error LNK2019: unresolved external symbol _getContact referenced in function _addContact
+D:\School\_Semester1\IPC Assignment 2\IPC-Project-master\A2\MS4\Debug\A2MS4.exe : fatal error LNK1120: 4 unresolved externals

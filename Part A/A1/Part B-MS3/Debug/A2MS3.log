@@ -1,0 +1,7 @@
+﻿  contacts.c
+  contactHelpers.c
+c:\users\fabio bernal\desktop\ipc assignment 2\ipc-project-master\a2\ms3\contacthelpers.c(70): warning C4013: 'clearKeyboard' undefined; assuming extern returning int
+  Generating Code...
+contactHelpers.obj : error LNK2019: unresolved external symbol _clearKeyboard referenced in function _getTenDigitPhone
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Fabio Bernal\Desktop\IPC Assignment 2\IPC-Project-master\A2\MS3\Debug\A2MS3.exe : fatal error LNK1120: 2 unresolved externals
