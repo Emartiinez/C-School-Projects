@@ -1,0 +1,8 @@
+Fabio Bernal
+036422103
+
+1.	Can you think of a more efficient way to ask a user to add the required information to each data field? 
+In my opinion a more efficient way of prompting questions to the user simply creating a function and calling that function every time a question is asked. This program I used a few do while loops and I can see how adding functions can simplify your code 
+
+2. Explain why a C string that is required to store up to 25 characters must be capable of storing 26 characters. 
+	The reason the C language requires an extra character to store C string is because of the null terminator which has a value of 0. The index number of the element is the same number as the character in the string. 
