@@ -1,0 +1,10 @@
+Name:Fabio Bernal
+ID: 036422103
+Section: JJ
+
+
+1)	From them workshop 2, both the lab and the home part I learned how to properly cast a variable and how using casting only changes the variable temporarily not permanently. 
+2)	The reason it was necessary to add 0.05 when calculating the GST is to make sure it will round up properly. 
+3)	The result of using casting operations, I was able to cast the float variable to an int and that lead me to use the modulus operator. This workshop gave me a good understanding in how the modulus operator can be use and after finally understanding it made me simplify the code. When beginning the home part, I was first writing it without modulus until I realized it was mandatory. Once I took my time to learn and understand how you can implement the modules it actually simply my code a lot making it more readable. But as mentioned before there are many ways to find the result in programming, 
+4)	In my opinion the reason we had to use modules is mainly because, yes as mentioned before there are many ways of doing things, but we need to show that we have an understand on how it can be implemented in the code. 
+
