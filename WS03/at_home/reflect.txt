@@ -1,0 +1,8 @@
+Fabio Bernal
+036422103
+IPC 144SJJ
+febernal@myseneca.ca 
+	
+
+
+The iterations constructs that were used in both the home and the lab assignments were; one, was the for loop at the beginning of the code to illustrate the user to enter a high and low value. The second, was the while loop and this one was implemented to ensure the user to stay within the value range of 40 to -40 and only executes the sequence if the conditions are true. The do while loop executes at least once and then continues only if the condition is true. The term conditional expression is an alternative syntax, it is a shorter way that using an if statement making it into shorthand for and more readable. 
