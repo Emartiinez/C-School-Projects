@@ -1,0 +1,19 @@
+Name: Fabio Bernal
+Student Number: 036422103
+Email: febernal@myseneca.ca
+Section: JJ
+Workshop: 04
+
+
+1) In one or two sentences explain why the arrays in this program have to be declared to hold 10 elements?
+
+	The reason why the array had to be declared to hold up to 10 elements is because first we did not know how much memory to save up and so it is always better to be on the safe side and declare just enough contiguous memory. Also, the arrays were not initialized when it was first declared, it was initialized when user enters values for high and low temperatures. 
+2) In two or three sentences explain the advantages and disadvantages of using matching arrays?
+
+	When working with structure matching arrays you realize how useful it is to store data when making a program where there is a data base to keep track of and it is a good way to organize that data being stored. The disadvantage of using matching arrays is that we are limited the same typed that was used. In order to store different types, you need matching arrays where the data from one type corresponds to the data from a different type hence the word parallel arrays.
+
+3) Was the at home portion of this workshop too easy, just right or too hard? Why?
+
+	In my opinion I think the home portion was just right because it is not much of big difference than the previous lab. In this home lab we learned a similar program using a data structure of parallel arrays to keep track of high and low temperatures using a for loop. Another similarity is we had to use a while loop to keep the user to stay between the range values it the program prompts. Lastly, we had to find the average for a day the was entered by the user.  We learned in this lab you can store and organize data much easier rather than doing every manually like in the previous lab. 
+
+
